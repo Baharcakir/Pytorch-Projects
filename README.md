@@ -37,5 +37,5 @@ This repository is part of my learning journey in:
 
 ## Author
 
-Bahar – Computer Engineering Student  
+Bahar Çakır – Computer Engineering Student  
 Interested in Data Science, AI and Machine Learning
