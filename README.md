@@ -15,6 +15,7 @@ Each project focuses on a different dataset or problem and includes:
 | Project | Description |
 |--------|-------------|
 | [MNIST](./mnist) | Handwritten digit classification using a fully connected neural network |
+| [CIFAR-10](./cifar) | Image classification using a Convolutional Neural Network (CNN) on the CIFAR-10 dataset |
 
 ---
 
@@ -24,6 +25,7 @@ Each project focuses on a different dataset or problem and includes:
 - PyTorch  
 - Torchvision  
 - Matplotlib  
+- NumPy  
 
 ---
 
