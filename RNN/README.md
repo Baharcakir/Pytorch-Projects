@@ -110,7 +110,7 @@ pip install torch torchvision matplotlib numpy
 ```
 2. Run the script:
 ```
-python rnn_timeseries.py
+python RNN.py
 ```
 
 ---
