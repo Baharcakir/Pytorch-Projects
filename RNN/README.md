@@ -106,11 +106,11 @@ This demonstrates the RNN’s ability to **extrapolate temporal patterns**.
 1. Install dependencies:
 
 ```bash
-pip install torch torchvision matplotlib numpy
+pip install torch torchvision matplotlib numpy jupyter
 ```
 2. Run the script:
 ```
-python RNN.py
+jupyter notebook RNN.ipynb
 ```
 
 ---
