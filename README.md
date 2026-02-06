@@ -14,10 +14,11 @@ Each project focuses on a different dataset or problem and includes:
 
 | Project | Description |
 |--------|-------------|
-| [MNIST](./mnist) | Handwritten digit classification using a fully connected neural network |
-| [CIFAR-10](./CIFAR) | Image classification using a Convolutional Neural Network (CNN) on the CIFAR-10 dataset |
+| [ANN](./mnist) | Handwritten digit classification using a fully connected neural network |
+| [CNN](./CIFAR) | Image classification using a Convolutional Neural Network (CNN) on the CIFAR-10 dataset |
 | [RNN](./RNN) | Time series analysis using Recurrent Neural Network (RNN) on a custom dataset |
 | [LSTM](./LSTM) | Turkish text prediction with Long Short Term Memory (LSTM) |
+| [GAN](./GAN) | MNIST digit generation using Generative Adversarial Networks (GAN) |
 
 ---
 
