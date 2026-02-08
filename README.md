@@ -19,6 +19,7 @@ Each project focuses on a different dataset or problem and includes:
 | [RNN](./RNN) | Time series analysis using Recurrent Neural Network (RNN) on a custom dataset |
 | [LSTM](./LSTM) | Turkish text prediction with Long Short Term Memory (LSTM) |
 | [GAN](./GAN) | MNIST digit generation using Generative Adversarial Networks (GAN) |
+| [RBFN](./RBFN) | Flower classification using a Radial Basis Function Network (RBFN) |
 
 ---
 
