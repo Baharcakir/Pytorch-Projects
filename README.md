@@ -20,6 +20,7 @@ Each project focuses on a different dataset or problem and includes:
 | [LSTM](./LSTM) | Turkish text prediction with Long Short Term Memory (LSTM) |
 | [GAN](./GAN) | MNIST digit generation using Generative Adversarial Networks (GAN) |
 | [RBFN](./RBFN) | Flower classification using a Radial Basis Function Network (RBFN) |
+| [AutoEncoders](./AutoEncoders) | FashionMNIST dataset using AutoEncoders |
 
 ---
 
