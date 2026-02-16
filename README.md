@@ -22,6 +22,7 @@ Each project focuses on a different dataset or problem and includes:
 | [RBFN](./RBFN) | Flower classification using a Radial Basis Function Network (RBFN) |
 | [AutoEncoders](./AutoEncoders) | FashionMNIST image reconstruction using Autoencoders |
 | [TransferLearning](./TransferLearning) | Flower classification using MobileNetV2 with Transfer Learning |
+| [ResNet](./ResNet) | CIFAR-10 classification using a custom Residual Neural Network (ResNet) built from scratch |
 
 ---
 
