@@ -24,6 +24,7 @@ Each project focuses on a different dataset or problem and includes:
 | [TransferLearning](./TransferLearning) | Flower classification using MobileNetV2 with Transfer Learning |
 | [ResNet](./ResNet) | CIFAR-10 classification using a custom Residual Neural Network (ResNet) built from scratch |
 | [DeepQL](./DeepQL) | Solving CartPole-v1 using Deep Q-Learning (DQN) with experience replay and target networks |
+| [Transformers](./Transformers) | Binary sentiment analysis using a Transformer model built from scratch in PyTorch |
 
 ---
 
