@@ -267,7 +267,7 @@ pip install torch torchvision scikit-learn
 Run the script or notebook:
 
 ```bash
-python sentiment_transformer.py
+Transformers.ipynb
 ```
 
 ---
